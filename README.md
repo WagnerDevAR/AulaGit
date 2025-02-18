@@ -13,6 +13,7 @@ Aula Ada Tech
 #Comando git pull
 
 *comando git fetch
+* novo comando
 
 
 
