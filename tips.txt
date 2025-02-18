@@ -1,0 +1,29 @@
+Git status
+git init
+
+git add nomedoarquivo
+git commit
+git diff --staged
+
+git restore --staged
+
+git push origin nomedobranch
+
+git fetch verifico as modificaçoes
+
+git diff origin/main 
+
+branch
+
+git branch testing
+
+git log --oneline --decorate  * indica que estamos com HEAD(ponteiro) na main/master
+
+git checkout testing  *ponteiro sai do master e vai para testing
+
+merge
+
+git merge testing
+
+teste
+
