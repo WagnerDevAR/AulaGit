@@ -10,4 +10,6 @@ Aula Ada Tech
 
 # comando git push
 
+#Comando git pull
+
 
